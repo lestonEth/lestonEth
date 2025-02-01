@@ -1,18 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Pedro+Muniz!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jimleston+Osoi!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦, building on Ethereum, Lisk, and Base</h3>
+<h3 align="center">A passionate software developer from Kenya 🇨🇦, building on web2, Ethereum, Lisk, and Base</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Crefy a Decentralised Identity platform**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Solidty, Supabase, AWS**
 
 💬 Ask me about **Node.js, React, Firebase, Ethereum, or anything [here](https://github.com/lestonEth/lestonEth/issues)**
 
@@ -70,7 +70,7 @@
 <br/>
 
 <div align="center">
-<a href='' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at leston-five.vercel.i.com' /></a>
 </div>
 
 <br/>
