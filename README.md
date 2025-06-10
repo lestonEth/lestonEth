@@ -55,6 +55,7 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
+ [![Jimlestons github Stats](https://github-readme-stats.vercel.app/api?username=jim-les&show_icons=true&theme=black)]
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=lestonEth&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
