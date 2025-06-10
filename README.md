@@ -55,7 +55,9 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
- [![Jimlestons github Stats](https://github-readme-stats.vercel.app/api?username=jim-les&show_icons=true&theme=black)]
+ 
+ [![Jimlestons github Stats](https://github-readme-stats.vercel.app/api?username=jim-les&show_icons=true&theme=black)][![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jim-les&theme=dark)](https://git.io/streak-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jim-les&show_icons=true&theme=black&layout=compact)]
+
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=lestonEth&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
