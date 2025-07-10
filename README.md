@@ -38,7 +38,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </div>
 
@@ -46,13 +46,17 @@
 
 ## 📈 GitHub Analytics
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 1rem;">
   
 ![Jimleston's GitHub stats](https://github-readme-stats.vercel.app/api?username=lestonEth&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lestonEth&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=lestonEth&theme=radical&hide_border=true&background=0D1117&stroke=4F46E5)
+</div>
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lestonEth&theme=radical&hide_border=true&background=0D1117&stroke=4F46E5)
 
 </div>
 
@@ -62,7 +66,7 @@
 
 <div align="center">
   
-![trophy](https://github-profile-trophy.vercel.app/?username=lestonEth&theme=radical&no-frame=true&row=1&margin-w=30&margin-h=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=lestonEth&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)
 
 </div>
 
@@ -82,7 +86,7 @@
 
 <div align="center">
   
-![Snake animation](https://github.com/lestonEth/lestonEth/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/lestonEth/lestonEth/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
