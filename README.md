@@ -1,59 +1,91 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Jimleston+Osoi" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&duration=4000&color=4F46E5&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Jimleston+Osoi" />
 </h1>
 
-<h3 align="center">Full-Stack Developer | Blockchain Engineer</h3>
+<h3 align="center" style="color: #6B7280;">Building decentralized solutions | Web3 Enthusiast</h3>
 
-<p align="center">
-  <a href="https://twitter.com/lestonEth"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/jimleston-osoi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jimleston@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://leston.xyz"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat&logo=todoist&logoColor=white"/></a>
-</p>
+<div align="center">
+  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/lestonEth)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimleston-osoi)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lestonEth)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@lestonEth)
 
----
-
-### 🛠️ Technologies
-
-**Blockchain:**  
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat&logoColor=black)
-![Base](https://img.shields.io/badge/Base-0052FF?style=flat)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
+</div>
 
 ---
 
-### 📊 Metrics
+## 🚀 Technologies & Tools
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lestonEth&show_icons=true&theme=radical&rank_icon=github" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lestonEth&theme=radical" />
-</p>
+### Blockchain Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
+  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum">
+  <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logoColor=black" alt="Hardhat">
+  <img src="https://img.shields.io/badge/Base-0052FF?style=for-the-badge" alt="Base">
+  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3">
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lestonEth&theme=radical" />
-</p>
+### Frontend Development
+<div align="center">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+</div>
 
-<p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lestonEth&theme=radical" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lestonEth&theme=radical" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lestonEth&theme=radical" />
-</p>
+### Backend & Databases
+<div align="center">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+</div>
 
 ---
 
-### 🐍 Contribution Graph
+## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lestonEth/lestonEth/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+  
+![Jimleston's GitHub stats](https://github-readme-stats.vercel.app/api?username=lestonEth&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lestonEth&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lestonEth&theme=radical&hide_border=true&background=0D1117&stroke=4F46E5)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+![trophy](https://github-profile-trophy.vercel.app/?username=lestonEth&theme=radical&no-frame=true&row=1&margin-w=30&margin-h=15)
+
+</div>
+
+---
+
+## 🌟 Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#23] in lestonEth/crefy-dapp
+2. 🚀 Started working on new NFT marketplace
+3. 💻 Fixed bug in smart contract verification
+4. 📝 Published article about Lisk SDK
+5. 🔄 Updated dependencies in 3 repositories
+<!--END_SECTION:activity-->
+
+---
+
+<div align="center">
+  
+![Snake animation](https://github.com/lestonEth/lestonEth/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=lestonEth&label=Profile%20views&color=4F46E5&style=flat" alt="lestonEth" /> 
+</div>
