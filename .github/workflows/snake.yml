@@ -10,13 +10,26 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Important for the action to access your contribution data
+      
+      - name: Create assets directory
+        run: mkdir -p assets
+      
       - uses: Platane/snk@v2
         with:
           github_user_name: lestonEth
           svg_out_path: assets/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: assets
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: uncomment these for different styles
+          # colors: |
+          #   background: '#161b22'
+          #   grid: '#39d353'
+          #   snake: '#26a641'
+      
+      - name: Commit and push
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake"
+          git push
