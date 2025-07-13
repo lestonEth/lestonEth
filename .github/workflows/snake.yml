@@ -11,25 +11,28 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 0  # Important for the action to access your contribution data
-      
+          fetch-depth: 0  # Important for contribution data
+
       - name: Create assets directory
-        run: mkdir -p assets
-      
+        run: mkdir -p dist  # Using 'dist' instead of 'assets'
+
       - uses: Platane/snk@v2
+        id: snake
         with:
           github_user_name: lestonEth
-          svg_out_path: assets/github-contribution-grid-snake.svg
-          # Optional: uncomment these for different styles
-          # colors: |
-          #   background: '#161b22'
-          #   grid: '#39d353'
-          #   snake: '#26a641'
-      
-      - name: Commit and push
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          # Uncomment for dark theme:
+          # theme: dark
+          # svg_out_path: dist/github-contribution-grid-snake-dark.svg
+
+      - name: Verify SVG generation
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-contribution-grid-snake.svg
-          git commit -m "Update contribution snake"
-          git push
+          ls -la dist/
+          [ -f dist/github-contribution-grid-snake.svg ] || exit 1
+
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output  # This branch must exist
+          keep_files: false
