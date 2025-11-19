@@ -89,18 +89,6 @@ Comprehensive toolkit for Ethereum Name Service management, including batch oper
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
-
----
-
-## 🐍 Contribution Snake
-
-<!-- This requires a GitHub Action to generate the snake animation -->
-<!-- Add this to your .github/workflows/update-snake.yml -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lestonEth/lestonEth/output/github-contribution-grid-snake.svg" alt="snake" />
-</div>
-
 ---
 
 <div align="center">
