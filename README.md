@@ -92,11 +92,16 @@ Comprehensive toolkit for Ethereum Name Service management, including batch oper
 
 ---
 
-<div align="center">
-  
-![Contribution Grid](https://github.com/lestonEth/lestonEth/blob/output/github-contribution-grid-snake-dark.svg)
+## 🐍 Contribution Snake
 
+<!-- This requires a GitHub Action to generate the snake animation -->
+<!-- Add this to your .github/workflows/update-snake.yml -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lestonEth/lestonEth/output/github-contribution-grid-snake.svg" alt="snake" />
 </div>
+
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lestonEth&label=Profile%20views&color=4F46E5&style=flat" alt="Profile views" /> 
