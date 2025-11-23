@@ -38,20 +38,7 @@ I specialize in building scalable blockchain infrastructure and decentralized ap
 ---
 
 ## 📈 GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/lestonEth">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lestonEth&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5&include_all_commits=true" />
-    <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lestonEth&show_icons=true&theme=radical)" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/lestonEth">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=lestonEth&theme=radical&hide_border=true&background=0D1117&stroke=4F46E5" />
-  </a>
-</div>
-
+![Leston's GitHub stats](https://github-readme-stats.vercel.app/api?username=lestonEth&show_icons=true&theme=radical)
 ---
 
 ## 💼 Featured Projects
