@@ -42,7 +42,7 @@ I specialize in building scalable blockchain infrastructure and decentralized ap
 <div align="center">
   <a href="https://github.com/lestonEth">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lestonEth&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5&icon_color=4F46E5&include_all_commits=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lestonEth&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4F46E5" />
+    <img height="180em" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lestonEth&show_icons=true&theme=radical)" />
   </a>
 </div>
 
