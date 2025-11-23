@@ -39,7 +39,7 @@ I specialize in building scalable blockchain infrastructure and decentralized ap
 
 ## 📈 GitHub Analytics
 ![Leston's GitHub stats](https://github-readme-stats.vercel.app/api?username=lestonEth&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lestonEth&layout=compact)
 ---
 ## 💼 Featured Projects
 
