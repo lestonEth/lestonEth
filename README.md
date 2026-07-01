@@ -6,15 +6,6 @@ I specialize in building scalable blockchain infrastructure and decentralized ap
 
 ---
 
-## 🚀 What I'm Building
-
-### Current Focus
-- **Shadpace** - Decentralized storage solution using libp2p for peer-to-peer file sharing
-- **Crefy Connect** - Wallet infrastructure for seamless dApp integration ([connect.crefy.xyz](https://connect.crefy.xyz))
-- **Crefy Identity** - Decentralized identity management platform
-
----
-
 ## 🛠 Technical Stack
 
 ### Blockchain Development
